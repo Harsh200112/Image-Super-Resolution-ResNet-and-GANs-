@@ -50,7 +50,18 @@ To run the infernce you'll need to use the following command,
 ```
 python Inference.py
 ```
-This will generate the an image containing the visual results on you screen.
+This will generate an image containing the visual results on you screen.
+
 ### Results of SR-ResNets
+<img src="SR-ResNet Method/Results.png" >
 
 ### Results of SR-GANs
+<img src="SR-GAN Method/Results.png" >
+
+### References
+- [Research Paper](https://arxiv.org/pdf/1609.04802)
+
+## Authors
+- [Harsh Soni](https://github.com/Harsh200112)
+- [Tanishq Kankerwal](https://github.com/B21BB032)
+- [Prince Verma](https://github.com/Princeverma3844)
