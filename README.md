@@ -13,6 +13,7 @@ The repository Consists of two different directories and a jupyter notebook name
 - SR-GAN Method
 - SR-ResNet Method
 - cv-project_Super-Resolution.ipynb
+- Traditional-CV-Approach.ipynb
 
 These directories contain all the files related to the specific methods respectively. Furthermore, jupyter notebook consists of results of the both the methods.
 
