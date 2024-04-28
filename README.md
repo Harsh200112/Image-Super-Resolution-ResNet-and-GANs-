@@ -52,5 +52,5 @@ python Inference.py
 ```
 This will generate the an image containing the visual results on you screen.
 ### Results of SR-ResNets
-
+![](SR-ResNet Method/Results.png)
 ### Results of SR-GANs
