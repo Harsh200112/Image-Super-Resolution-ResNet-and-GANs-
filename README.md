@@ -53,6 +53,15 @@ python Inference.py
 This will generate an image containing the visual results on you screen.
 
 ### Results of SR-ResNets
-![](SR-ResNet Method/Results.png)
+<img src="SR-ResNet Method/Results.png" >
 
 ### Results of SR-GANs
+<img src="SR-GAN Method/Results.png" >
+
+### References
+- [Research Paper](https://arxiv.org/pdf/1609.04802)
+
+## Authors
+- [Harsh Soni](https://www.linkedin.com/in/harsh-soni-1a3682228/)
+- [Tanishq Kankerwal](https://www.linkedin.com/in/tanishq-kankerwal-765078230/)
+- [Prince Verma](https://www.linkedin.com/in/prince-verma-43498b228/)
